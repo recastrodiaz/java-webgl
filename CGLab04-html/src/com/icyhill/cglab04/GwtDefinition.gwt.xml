@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module>
+    <entry-point class="com.icyhill.cglab04.client.GwtLauncher"/>
+    <set-configuration-property name="gdx.assetpath" value="../CGLab04-android/assets"/>
+    <inherits name="MainGame"/>
+    <inherits name="com.badlogic.gdx.backends.gdx_backends_gwt"/>
+</module>
