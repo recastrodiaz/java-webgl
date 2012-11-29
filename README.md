@@ -14,6 +14,12 @@ Running the code
 4. Run the desktop application or compile and launch the GWT project. 
 5. Browse the code and enjoy!
 
+Troubleshooting
+---------------
+
+If you encounter the following error when running the GWT app: "GWT could not create an array of type Material" (or something like that).
+Then you need to apply the following (workaround) [patch](https://github.com/recastrodiaz/libgdx/commit/660e1e467c578bad63ce8feedb555351621ec380)
+
 License
 ----------------
 
